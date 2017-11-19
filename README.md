@@ -33,8 +33,9 @@ cd scummvm-vero4k
 Kodi will stop whilst the build goes on and return when it’s finished (<15mins).
 
 ## Usage instructions (based on my own usage/prefs)
-`./scummvm -f --gfx-mode=hq3x --joystick --path=/mnt/nas/emulation/roms/ScummVM/ --recursive --add`  
-then  
+Scan your roms in from the path of your choosing...
+`./scummvm -f --path=/mnt/nas/emulation/roms/ScummVM/ --recursive --add`  
+then start VM proper. 
 `./scummvm -f --gfx-mode=hq3x --joystick --path=/mnt/nas/emulation/roms/ScummVM/`
 
 Configuration is totally beyond the scope of this Readme.  
